@@ -4,4 +4,7 @@ public class FeatureB {
 	public void master () {
 		
 	}
+	public void test () {
+		
+	}
 }
